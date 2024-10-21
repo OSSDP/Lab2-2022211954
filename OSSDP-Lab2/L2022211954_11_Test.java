@@ -7,6 +7,8 @@ import static org.junit.jupiter.api.Assertions.assertAll;
  *输入的数组可分为：含有2个及以下元素的整数数组，含有3个及以上的整数数组
  * 含有3个及以上的数组可分为：元素全是正数，全是负数，全是0，有正数也有负数
  */
+
+ //非常好的测试类
 class L2022211954_11_Test{
 
     @Test
